@@ -1,0 +1,6 @@
+{
+  "name": "TRA Collector",
+  "description": "Tanzania Revenue Authority assistant for revenue collection, taxpayer tracking, and tax assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
